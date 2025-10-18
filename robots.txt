@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap for faster indexing
+Sitemap: https://jaipurclinic.com/sitemap.xml
